@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Caio Souza Silva
 - 🌱 Estudando JavaScript
 - 😄 Pronomes: Ele/Dele
-<div align="center">
+<div>
   <a href="https://github.com/CaioSSilva">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=CaioSSilva&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioSSilva&layout=compact&langs_count=7&theme=github_dark"/>
