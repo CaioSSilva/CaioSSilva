@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Caio Souza Silva
-- 🌱 Estudando Javascript, Java e COBOL
+- 🌱 Estudando Javascript, React e COBOL
 - 😄 Pronomes: Ele/Dele
 <div>
   <a href="https://github.com/CaioSSilva">
