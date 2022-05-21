@@ -1,3 +1,4 @@
+[![Caio Souza's Github Banner](./assets/banner.jpg)](https://caiossilva.github.io/Portfolio/)
 ### Olá! Eu sou o Caio Souza Silva
 - 🌱 Estudando Javascript, React e COBOL
 - 😄 Pronomes: Ele/Dele
