@@ -1,6 +1,6 @@
 [![Caio Souza's Github Banner](./assets/banner.png)](https://caiossilva.github.io/Portfolio/)
 ### Olá! Eu sou o Caio Souza Silva
-- 🌱 Estudando Javascript, React e COBOL
+- 🌱 Estudando Javascript, React e Angular
 - 😄 Pronomes: Ele/Dele
   <p>Tenho 18 anos, comecei na programação aos 16, desde então tenho tentado me aperfeiçoar, atualmente estou estudando React, tenho conhecimento em HTML, CSS e JavaScript. Sou dedicado e aprendo rápido, tambem gosto de ensinar.</p>
 <div>
