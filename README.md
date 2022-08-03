@@ -1,10 +1,8 @@
-[![Caio Souza's Github Banner](./assets/banner.png)](https://caiossilva.github.io/Portfolio/)
+[![Caio Souza's Github Banner](./assets/banner.png)](https://caiossilva-dev.netlify.app/)
 ### Olá! Eu sou o Caio Souza Silva
 - 🌱 Estudando Javascript, React e Angular
 - 😄 Pronomes: Ele/Dele
   <p>Tenho 18 anos, comecei na programação aos 16, desde então tenho tentado me aperfeiçoar, atualmente estou estudando React, tenho conhecimento em HTML, CSS e JavaScript. Sou dedicado e aprendo rápido, tambem gosto de ensinar.</p>
-  
- <a href="https://caiossilva-dev.netlify.app/" target="_blank"><h4>Meu Portfolio</h4></a>
   
 <div>
   <a href="https://github.com/CaioSSilva">
