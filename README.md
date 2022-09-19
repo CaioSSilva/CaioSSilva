@@ -4,7 +4,7 @@
 - 😄 Pronomes: Ele/Dele
 
 ### Spotify Playing 🎧
-[<img src="https://novatorem-caiossilva.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/exr9p9ra4juakt148h5zcwimf)
+[<img src="https://novatorem.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/exr9p9ra4juakt148h5zcwimf)
 
 <p>Tenho 18 anos, comecei na programação aos 16, desde então tenho tentado me aperfeiçoar, atualmente estou estudando React, tenho conhecimento em HTML, CSS e JavaScript. Sou dedicado e aprendo rápido, tambem gosto de ensinar.</p>
   
