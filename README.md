@@ -2,7 +2,11 @@
 ### Olá! Eu sou o Caio Souza Silva
 - 🌱 Estudando Javascript, React e Angular
 - 😄 Pronomes: Ele/Dele
-  <p>Tenho 18 anos, comecei na programação aos 16, desde então tenho tentado me aperfeiçoar, atualmente estou estudando React, tenho conhecimento em HTML, CSS e JavaScript. Sou dedicado e aprendo rápido, tambem gosto de ensinar.</p>
+
+### Spotify Playing 🎧
+[<img src="https://spotify-playing-now-olive.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/<https://open.spotify.com/user/exr9p9ra4juakt148h5zcwimf>)
+
+<p>Tenho 18 anos, comecei na programação aos 16, desde então tenho tentado me aperfeiçoar, atualmente estou estudando React, tenho conhecimento em HTML, CSS e JavaScript. Sou dedicado e aprendo rápido, tambem gosto de ensinar.</p>
   
 <div>
   <a href="https://github.com/CaioSSilva">
