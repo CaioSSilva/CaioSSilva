@@ -4,10 +4,11 @@
 - 😄 Pronomes: Ele/Dele
 
 <p>Tenho 18 anos, comecei na programação aos 16, desde então tenho tentado me aperfeiçoar, atualmente estou estudando React, tenho conhecimento em HTML, CSS e JavaScript. Sou dedicado e aprendo rápido, tambem gosto de ensinar.</p>
-
-### Ouvindo agora no Spotify... 🎧
-[<img src="https://novatorem-nine-psi.vercel.app/api/spotify" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/exr9p9ra4juakt148h5zcwimf)
-
+<div>
+  ### Ouvindo agora no Spotify... 🎧
+  [<img src="https://novatorem-nine-psi.vercel.app/api/spotify" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/exr9p9ra4juakt148h5zcwimf)
+  <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+</div>
 <div>
   <a href="https://github.com/CaioSSilva">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=CaioSSilva&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
