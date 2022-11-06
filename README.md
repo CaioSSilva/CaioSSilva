@@ -1,4 +1,4 @@
-[![Caio Souza's Github Banner](./assets/banner.png)](https://caiossilva-dev.netlify.app/)
+[![Caio Souza's Github Banner](./assets/banner.png)](https://caiossilva.github.io/Portfolio/)
 ### Olá! Eu sou o Caio Souza Silva
 - 🌱 Estudando Javascript, React e Angular
 - 😄 Pronomes: Ele/Dele
