@@ -1,4 +1,4 @@
-[![Caio Souza's Github Banner](./assets/banner.png)](https://caiossilva.github.io/Portfolio/)
+[![Caio Souza's Github Banner](./assets/banner.png)](https://caiossilva.com)
 ### Olá! Eu sou o Caio Souza Silva
 - 🌱 Estudando Javascript, React e Angular
 - 😄 Pronomes: Ele/Dele
