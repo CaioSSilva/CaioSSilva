@@ -30,7 +30,7 @@
   <a href="https://www.twitter.com/Caiomas_levanto" target="_blank">
  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"</a>
   
-  (https://github.com/CaioSSilva/CaioSSilva/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/CaioSSilva/CaioSSilva/blob/output/github-contribution-grid-snake.svg)
  </div>
 
 
