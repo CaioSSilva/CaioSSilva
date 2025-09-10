@@ -1,6 +1,5 @@
 [![Caio Souza's Github Banner](./assets/banner.png)](https://caiossilva.com)
 ### Olá! Eu sou o Caio Souza Silva
-- 🌱 Estudando Javascript, React e Angular
 - 😄 Pronomes: Ele/Dele
 
 <p>Tenho 21 anos, comecei na programação aos 16, desde então tenho tentado me aperfeiçoar, atualmente sou Desenvolvedor Frontend Angular na IBM. Sou dedicado e aprendo rápido, tambem gosto de ensinar.</p>
