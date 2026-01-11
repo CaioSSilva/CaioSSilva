@@ -28,5 +28,3 @@
   
   ![snake gif](https://github.com/CaioSSilva/CaioSSilva/blob/output/github-contribution-grid-snake.gif)
 </div>
-
-
