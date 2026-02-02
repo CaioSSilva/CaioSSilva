@@ -1,7 +1,5 @@
 <div align="center">
 
-[![Caio Souza's Github Banner](./assets/banner.png)](https://caiossilva.com)
-
 # Olá! Eu sou o Caio Souza Silva 👋
 
 <p>Tenho 21 anos, comecei na programação aos 16, desde então tenho tentado me aperfeiçoar. Atualmente sou <strong>Desenvolvedor Frontend Angular na IBM</strong>. Sou dedicado, aprendo rápido e também gosto de ensinar!</p>
@@ -49,7 +47,7 @@
 
 <div align="center">
 
-[![Portfolio](https://github-readme-card.vercel.app/api/card?username=CaioSSilva&repo=Portfolio&theme=github_dark)](https://github.com/CaioSSilva/Portfolio)
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=CaioSSilva&repo=Portfolio&theme=radical&border_color=e4e669)](https://github.com/CaioSSilva/Portfolio)
 
 </div>
 
