@@ -49,7 +49,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/CaioSSilva/CaioSSilva/output/github-contribution-grid-snake.gif" alt="snake" />
+<img src="https://raw.githubusercontent.com/CaioSSilva/CaioSSilva/blob/output/output/github-contribution-grid-snake.gif" alt="snake" />
 
 </div>
 
