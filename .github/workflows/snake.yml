@@ -13,20 +13,20 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - uses: Platane/snk@v3
+      - uses: Platane/snk/svg-only@v3
         with:
           github_user_name: CaioSSilva
           outputs: |
-            github-contribution-grid-snake.gif
             github-contribution-grid-snake.svg
+            github-contribution-grid-snake-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Move files and commit
         run: |
           mkdir -p output
-          mv github-contribution-grid-snake.gif output/
           mv github-contribution-grid-snake.svg output/
+          mv github-contribution-grid-snake-dark.svg output/
           git add output/
           git config user.email "github-actions[bot]@github.com"
           git config user.name "GitHub Actions"
