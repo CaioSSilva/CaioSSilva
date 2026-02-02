@@ -10,19 +10,27 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: output
+          fetch-depth: 0
+        continue-on-error: true
 
       - uses: Platane/snk@v3
         with:
           github_user_name: CaioSSilva
           outputs: |
-            output/github-contribution-grid-snake.svg
             output/github-contribution-grid-snake.gif
+            output/github-contribution-grid-snake.svg
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Push to output branch
-        uses: ad-m/github-push-action@v0.8.0
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: output
-          force: true
+      - name: Commit and push
+        run: |
+          cd output
+          git init
+          git add -A
+          git config user.email "github-actions[bot]@github.com"
+          git config user.name "GitHub Actions"
+          git commit -m "update snake" --allow-empty
+          git remote add origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/CaioSSilva/CaioSSilva.git
+          git push origin HEAD:output --force
