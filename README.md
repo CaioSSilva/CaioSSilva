@@ -33,9 +33,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=CaioSSilva&theme=radical&showicons=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=CaioSSilva&theme=radical&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 
-<img src="https://github-readme-streak-stats.heroku-app.com/?user=CaioSSilva&theme=radical" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=CaioSSilva&theme=radical" alt="GitHub Streak" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioSSilva&theme=radical&layout=compact" alt="Top Languages" />
 
@@ -47,7 +47,7 @@
 
 <div align="center">
 
-![snake gif](https://github.com/CaioSSilva/CaioSSilva/blob/output/github-contribution-grid-snake.gif)
+<img src="https://raw.githubusercontent.com/CaioSSilva/CaioSSilva/output/github-contribution-grid-snake.gif" alt="snake" />
 
 </div>
 
