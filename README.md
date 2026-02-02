@@ -33,11 +33,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=CaioSSilva&theme=radical&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=CaioSSilva&theme=radical&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=CaioSSilva&theme=radical" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=CaioSSilva&theme=radical&hide_border=true" alt="GitHub Streak" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioSSilva&theme=radical&layout=compact" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioSSilva&theme=radical&layout=compact&hide_border=true" alt="Top Languages" />
 
 </div>
 
