@@ -45,6 +45,16 @@
 
 ---
 
+## 🚀 Projetos
+
+<div align="center">
+
+[![Portfolio](https://github-readme-card.vercel.app/api/card?username=CaioSSilva&repo=Portfolio&theme=github_dark)](https://github.com/CaioSSilva/Portfolio)
+
+</div>
+
+---
+
 ## 🐍 Contribuições
 
 <div align="center">
