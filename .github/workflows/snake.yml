@@ -13,9 +13,10 @@ jobs:
 
       - uses: Platane/snk@v3
         with:
-          github_user: CaioSSilva
-          svg_out: output/github-contribution-grid-snake.svg
-          gif_out: output/github-contribution-grid-snake.gif
+          github_user_name: CaioSSilva
+          outputs: |
+            output/github-contribution-grid-snake.svg
+            output/github-contribution-grid-snake.gif
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
