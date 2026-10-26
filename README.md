@@ -2,7 +2,7 @@
 
 # Olá! Eu sou o Caio Souza Silva 👋
 
-<p>Tenho 21 anos, comecei na programação aos 16, desde então tenho tentado me aperfeiçoar. Atualmente sou <strong>Desenvolvedor Frontend Angular na IBM</strong>. Sou dedicado, aprendo rápido e também gosto de ensinar!</p>
+<p>Tenho 22 anos, comecei na programação aos 16, desde então tenho tentado me aperfeiçoar. Atualmente sou <strong>Desenvolvedor Frontend Angular na IBM</strong>. Sou dedicado, aprendo rápido e também gosto de ensinar!</p>
 
 😄 Pronomes: Ele/Dele
 
